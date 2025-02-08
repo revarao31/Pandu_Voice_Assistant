@@ -1,6 +1,6 @@
-﻿# pandu-voice-assistant
+﻿# VoxMate
 
-Pandu is a voice-activated virtual assistant designed to help you with various tasks through voice commands. This project uses HTML, CSS, JavaScript, and the Web Speech API to recognize your commands and respond accordingly. Pandu can perform actions like opening websites, telling you the current time, and more.
+VoxMate is a voice-activated virtual assistant designed to help you with various tasks through voice commands. This project uses HTML, CSS, JavaScript, and the Web Speech API to recognize your commands and respond accordingly. Pandu can perform actions like opening websites, telling you the current time, and more.
 
 ## Features
 - Voice Commands: Activate the virtual assistant with a click and interact using natural language.
